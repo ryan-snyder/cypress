@@ -7,7 +7,8 @@
 **/dist
 **/dist-test
 **/node_modules
-**/support/fixtures
+**/support/fixtures/*
+!**/support/fixtures/projects
 **/test/fixtures
 **/vendor
 
